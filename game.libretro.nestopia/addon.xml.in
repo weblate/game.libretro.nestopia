@@ -2,7 +2,7 @@
 <addon id="game.libretro.nestopia"
 		name="Nintendo - NES / Famicom (Nestopia UE)"
 		version="1.50.0.10"
-		provider-name="Martin Freij|R. Belmont|R. Danbrook">
+		provider-name="Martin Freij, R. Belmont, R. Danbrook">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.nes" version="1.0.0"/>
